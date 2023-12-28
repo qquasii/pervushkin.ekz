@@ -181,6 +181,7 @@
    margin-right: auto;
 }
  .input2{
+    display: column;
    width: 300px;
    padding: 8px 10px;
    margin-bottom: 10px;
